@@ -56,6 +56,7 @@ PRODUCT_COPY_FILES += \
 
 # Packages
 PRODUCT_PACKAGES := \
+    audio.r_submix.default \
     com.android.future.usb.accessory \
     SamsungServiceMode \
     Torch
